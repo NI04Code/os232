@@ -1,4 +1,4 @@
 # Index
-Mylog: https://github.com/NI04Code/os232/blob/main/TXT/mylog.txt
-Github: https://github.com/NI04Code/os232
-LINKS: https://github.com/NI04Code/os232/blob/main/LINKS/links.md
+* [MyLog](https://github.com/NI04Code/os232/blob/main/TXT/mylog.txt)
+* [GitHub](https://github.com/NI04Code/os232)
+* [LINKS](https://ni04code.github.io/os232/LINKS/)
