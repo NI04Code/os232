@@ -27,3 +27,15 @@ Difference between GPG and SSH key.
 These blog let me know the difference between ssh and gpg keys.
 <br>
 <hr>
+
+* [How to Use Nano Editor](https://linuxize.com/post/how-to-use-nano-text-editor/) --- 
+Tutorial for nano editor. 
+These blog helps me to understand more about nano editor and how to use it.
+<br>
+<hr>
+
+* [How to Back Up Virtual Machines in VirtualBox](https://www.thetechedvocate.org/how-to-backup-and-move-virtualbox-machines/#:~:text=Backup%20Your%20Virtual%20Machine&text=Step%201%3A%20Open%20VirtualBox%20and,and%20select%20%E2%80%9CExport%20Appliance.%E2%80%9Dhttps://www.thetechedvocate.org/how-to-backup-and-move-virtualbox-machines/#:~:text=Backup%20Your%20Virtual%20Machine&text=Step%201%3A%20Open%20VirtualBox%20and,and%20select%20%E2%80%9CExport%20Appliance.%E2%80%9D) --- 
+Tutorial for back up VMs in VirtualBox. 
+These blog helps me to back up my debian 12 guest.
+<br>
+<hr>
