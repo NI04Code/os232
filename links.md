@@ -45,3 +45,9 @@ Tutorial for creating basic makefile.
 These blog helps me to create a makefile.
 <br>
 <hr>
+
+* [Solve Git Merge Conflict](https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git) ---
+Tutorial for solving merge conflict in github.
+These blog helps me solve my git merge conflict problem because I create two same directory.
+<br>
+<hr>
