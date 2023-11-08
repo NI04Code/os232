@@ -57,3 +57,9 @@ Explanation about fork system call in OS
 These blog helps me understand fork system call in Operating System.
 <br>
 <hr>
+
+* [Sync on Linux](https://www.geeksforgeeks.org/sync-command-in-linux-with-examples/)
+Explanation about sync command in linux
+These blog helps me understand the use of sync command in linux
+<br>
+<hr>
