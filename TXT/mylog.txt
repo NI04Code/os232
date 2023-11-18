@@ -50,5 +50,11 @@ ZCZC W07 200 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W07 50 L40 TXT/ related in general
 ZCZC W07 400 L70 Studying for other courses.
 ZCZC W07 240 L88 Workout/Sport/Exercise/ETC. 
-
-
+ZCZC W08 360 L18 Assignment #08
+ZCZC W08 50 L03 GitHub related
+ZCZC W08 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 200 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 50 L40 TXT/ related in general
+ZCZC W08 400 L70 Studying for other courses.
+ZCZC W08 240 L88 Workout/Sport/Exercise/ETC.
+ZCZC W08 80 L05 Quiz related including studying

@@ -63,3 +63,9 @@ Explanation about sync command in linux
 These blog helps me understand the use of sync command in linux
 <br>
 <hr>
+
+* [Linux From Scratch](https://linuxfromscratch.org/lfs/)
+A book that show me how to build linux from scratch
+These book help me to understand a lot of command and packages to build linux system
+<br>
+<hr>
