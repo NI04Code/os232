@@ -57,4 +57,6 @@ ZCZC W08 200 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W08 50 L40 TXT/ related in general
 ZCZC W08 400 L70 Studying for other courses.
 ZCZC W08 240 L88 Workout/Sport/Exercise/ETC.
+ZCZC W08 45 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W08 80 L05 Quiz related including studying
+ZCZC W08 500 L99 Other
