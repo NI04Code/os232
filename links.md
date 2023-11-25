@@ -69,3 +69,9 @@ A book that show me how to build linux from scratch
 These book help me to understand a lot of command and packages to build linux system
 <br>
 <hr>
+
+* [Package Management System List](https://en.wikipedia.org/wiki/List_of_software_package_management_systems)
+A list of general package management systems
+These list give me an understanding of each package management in every system and it uses
+<br>
+<hr>
